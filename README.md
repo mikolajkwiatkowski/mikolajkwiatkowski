@@ -1,10 +1,11 @@
-# 👋 Hi there! I'm [Your Name]  
+# 👋 Hi there! I'm Mikołaj  
 
 💻 I code with:  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)  
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mikolajkwiatkowski/kriss-backend)
 
 ---
 
