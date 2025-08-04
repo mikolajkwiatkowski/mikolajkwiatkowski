@@ -10,8 +10,8 @@
 
 - Frontend: **React**, **Next.js**, **TypeScript**, **Tailwind CSS**
 - Backend: **Spring Boot**, **Java**, **REST APIs**, **MySQL/PostgreSQL**
-- DevOps: **Docker**, **GitHub Actions**
-- Others: **Jest**, **Cypress**, **Swagger**, **Postman**
+- DevOps: **Docker**, **GitHub**
+- Others: **Cypress**, **Swagger**, **Postman**
 
 ---
 
@@ -29,20 +29,11 @@
 
 ## 📫 How to reach me
 
-- ✉️ Email: [your email]
+- ✉️ Email: flower424@wp.pl
 - 💼 LinkedIn: [your LinkedIn profile]
-- 🌐 Portfolio: [your portfolio link]
+
 
 ---
 
-## 🚀 Currently working on
-
-- 🧠 Building a full-stack web app using React + Spring Boot
-- 🌱 Learning more about DevOps and microservices architecture
-
----
-
-## 🧩 Fun fact
-
-> "Code is like poetry – but sometimes the compiler doesn’t get the joke." 😄
-
+## 🧩 About me
+I like to play games a lot. 
