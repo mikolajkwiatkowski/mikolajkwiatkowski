@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Mikołaj  
+# 👋 Hi there! I'm Mikołaj, Bydgoszcz University of Science and Technology student
 
 💻 I code with:  
 
@@ -15,17 +15,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 How to reach me
 
