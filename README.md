@@ -19,7 +19,7 @@
 ## 📫 How to reach me
 
 - ✉️ Email: flower424@wp.pl
-- 💼 LinkedIn: [your LinkedIn profile]
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/miko%C5%82aj-kwiatkowski-b607b7377/">My profile</a>
 
 
 ---
